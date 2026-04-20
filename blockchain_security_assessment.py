@@ -120,8 +120,8 @@ def banner():
     print("""
 ╔══════════════════════════════════════════════════════════════╗
 ║    Multi-Network Blockchain Security Assessment Tool         ║
-║    BTC · Lightning · ETH · BSC · Polygon · AVAX · SOL       ║
-║    Solo per uso legittimo e autorizzato                      ║
+║    BTC · Lightning · ETH · BSC · Polygon · AVAX · SOL        ║
+║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 """)
 
